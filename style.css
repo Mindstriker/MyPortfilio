@@ -11,6 +11,7 @@
     --clr-3: #0ec3d4;
     --clr-4: #cb19ce;
     --clr-5: #de1f38;
+    --clr-6: #47f025;
   }
 
   body {
@@ -52,6 +53,7 @@
       var(--clr-4),
       var(--clr-5),
       var(--clr-4),
+      var(--clr-6) ,
       var(--clr-3) 
 
     );
